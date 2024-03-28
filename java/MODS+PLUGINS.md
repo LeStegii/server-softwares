@@ -5,7 +5,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 
 # ✔️ Active Development
 ### [🔶 Magma Maintained](https://github.com/magmamaintained)
-- **Version:** 1.12.2, 1.18.2, 1.19.3 (Legacy), 1.20.1
+- **Version:** 1.12.2, 1.18.2, 1.19.3 (Legacy), 1.20.1 (Unsupported)
 - **Author:** TonimatasDEV
 - **Fork:** Forge/CraftBukkit/Spigot --> Magma --> Magma Maintained
 - **Description:** This project is to maintain the existing versions of Magma (1.20.1, 1.19.3, 1.18.2, 1.12.2).
@@ -13,7 +13,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Mods:** Forge
 
 ### [🔗 Ketting](https://github.com/kettingpowered)
-- **Version:** 1.20.1, 1.20.2, 1.20.3 (unsupported), 1.20.4
+- **Version:** 1.20.1, 1.20.2, 1.20.3 (Unsupported), 1.20.4
 - **Author:** KettingPowered
 - **Fork:** Forge/CraftBukkit/Spigot --> Ketting
 - **Description:** Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server.
