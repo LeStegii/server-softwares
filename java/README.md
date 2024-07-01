@@ -1,4 +1,4 @@
-# 🖥 Java Server Softwares
+# 🖥 Java Server software
 
 ### 📗 [Vanilla (Vanilla, TrueCraft, ...)](/java/VANILLA.md)
 **Minecraft server software not supporting mods or plugins.**

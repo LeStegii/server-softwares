@@ -17,7 +17,7 @@ jobs:
       - name: Get Data
         uses: actions/checkout@v3
         with:
-          repository: "LeStegii/server-softwares"
+          repository: "LeStegii/server-software"
           path: "."
           ref: "master"
 

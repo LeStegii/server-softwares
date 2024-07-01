@@ -1,5 +1,5 @@
 # Minecraft Java Proxy software.
-This list contains Minecraft Java proxy server softwares.
+This list contains Minecraft Java proxy server software.
 
 About it: Proxies manage different single minecraft servers and manage player connections in order to handle a large number of players.
 

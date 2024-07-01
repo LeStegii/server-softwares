@@ -1,5 +1,5 @@
 # Minecraft Java Folia Plugins software.
-This list contains Minecraft Java plugins server softwares based on Folia.
+This list contains Minecraft Java plugins server software based on Folia.
 
 ⚠️ **Warning!** If a project is not in active development exploits such as Log4J could still work!
 

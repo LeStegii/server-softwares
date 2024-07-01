@@ -1,4 +1,4 @@
-# 🖥 Bedrock Server Softwares
+# 🖥 Bedrock Server software
 
 ### 📗 [Vanilla (Bedrock, JukeboxMC...)](/bedrock/VANILLA.md)
 **Bedrock server software not supporting mods or plugins.**

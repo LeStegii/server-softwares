@@ -1,19 +1,13 @@
 # Minecraft Java Vanilla Software.
-This list contains Minecraft Java vanilla server softwares.
+This list contains Minecraft Java vanilla server software.
 
 ⚠️ **Warning!** If a project is not in active development exploits such as Log4J could still work!
 # ✔️ Active Development
-### [🌍 Vanilla Minecraft](https://www.minecraft.net/download/server)
+### [🌍 Vanilla](https://www.minecraft.net/download/server)
 - **Version:** All
 - **Author:** Mojang Studio (Microsoft)
 - **Fork:** -
 - **Description:** Official Minecraft Vanilla Multiplayer server by Mojang Studio (Microsoft).
-
-### [⚓ Anchor](https://github.com/AnchorMC/Anchor)
-- **Version:** ?
-- **Author:** AnchorMC
-- **Fork:** -
-- **Description:** A Minecraft server implementation written in Go.
 
 ### [⬛ MCHPR](https://github.com/MCHPR/MCHPRS)
 - **Version:** 1.18.2, 1.20.4
@@ -22,10 +16,22 @@ This list contains Minecraft Java vanilla server softwares.
 - **Description:** A multithreaded reimplementation of the Mincraft server in Rust, made for redstone plot servers.
 
 # ❌ Inactive Development
+### [⬛ Sink-MC](https://github.com/infinitec0der/Sink-MC)
+- **Version:** Minecraft classic
+- **Author:** infinitec0der
+- **Fork:** -
+- **Description:** -
+
+### [⬛ JTE-Freebuild](https://gitlab.com/andrewphorn/JTE-Freebuild)
+- **Version:** Minecraft classic
+- **Author:** Andrew
+- **Fork:** -
+- **Description:** Sandbox software written for Minecraft Classic.
+
 ### [⬛ Spout](https://github.com/SpoutDev/Spout)
 - **Version:** 1.5.2
 - **Author:** SpoutDev
-- **Fork:** ?
+- **Fork:** -
 - **Description:** Open source, multithreaded, voxel game engine and platform, written in Java.
 
 ### [⬛ Spacecraft-GT](https://github.com/SpaceManiac/Spacecraft-GT)

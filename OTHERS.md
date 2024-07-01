@@ -1,5 +1,5 @@
 # Others
-This list contains softwares that are related to minecraft servers but are no servers or proxies.
+This list contains software which is related to minecraft servers but is not a server or proxy.
 
 # ✔️ Active Development
 ### [💧 GeyserMC](https://geysermc.org/)
