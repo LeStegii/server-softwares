@@ -130,11 +130,11 @@ This list contains Minecraft Java plugins server software.
 - **Plugins:** Flying Squid
 
 ### [⚡ PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
-- **Version:** 1.19.2-1.20.6
+- **Version:** 1.20.1, 1.20.4, 1.21.8
 - **Author:** PlazmaMC
-- **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Mirai --> Suki --> Fusion --> Andromeda --> Plazma
-- **Description:** Successor to Fusion and Andromeda.
-- **Plugins:** Bukkit, Spigot, Paper
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Purpur --> Plazma
+- **Description:** A Minecraft Server based on Purpur, which provides enhanced stability and performance.
+- **Plugins:** Bukkit, Spigot, Paper, Purpur
 
 ### [⚡ Thunderbolt](https://github.com/PlazmaMC/Thunderbolt)
 - **Version:** 1.20.6
