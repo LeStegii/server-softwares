@@ -19,4 +19,10 @@ This list contains Minecraft Java Limbo server software.
 - **Fork:** -
 - **Description:** The main goal of the project is maximum simplicity with a minimum number of sent and handled packets.
 
+### [⬛ PicoLimbo](https://github.com/Quozul/PicoLimbo)
+- **Version:** 1.7.2-1.21.11
+- **Author:** Quozul
+- **Fork:** -
+- **Description:** A lightweight and performant Limbo implementation written entirely in Rust.
+
 # ❌ Inactive Development
